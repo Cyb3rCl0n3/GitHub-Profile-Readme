@@ -1,0 +1,27 @@
+configname: update_stats
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+  - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run gen_stats
+        run: |
+          python gen_stats.py
+      - name: Compile the README.md file
+        run: |
+          cat neofetch.md stats.md > README.md 
+      - name: Commit & Push changes
+        run: |
+          git add stats.md
+          git config --global user.name 'Auto'
+          git config --global user.email 'auto@example.com'
+          git commit -am 'Automatic update' || true
+          git push
