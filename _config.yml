@@ -1,0 +1,16 @@
+# mandatory
+name: "" # Your custom name (recommended: your GitHub user name)
+waka name: "" # Your wakatime user name
+
+
+# setup wakatime:
+# 1: Wakatime create account: https://wakatime.com/
+# 2: Install plugin in your code editor
+# 3: Copy your
+
+# portfolio
+# You can customize in neofetch.md 
+
+# optional
+# branch: You can change it in the .guthub/workflows folder (branches: [ main ])
+# schedule: You can change it in the .guthub/workflows folder (cron: "0 0 * * *")
