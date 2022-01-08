@@ -8,7 +8,8 @@ waka name: "" # Your wakatime user name
 # 2: Install plugin in your code editor
 
 # portfolio
-# You can customize in neofetch.md 
+# You can customize in neofetch.md
+# You can change the theme by removing "console" in neofetch.md and stats.md files
 
 # optional
 # branch: You can change it in the .guthub/workflows folder (branches: [ main ])
