@@ -1,3 +1,15 @@
+# GitHub Profile Readme 
+![banner](https://repository-images.githubusercontent.com/445896687/3b39ccb5-af17-4585-9098-73dd525035f5)
+## Description
+- That's a simple and minimalist README.md for your profile
+## Usage
+- You can download or copy to your repository and make sure that your repository name is the same as your GitHub username
+- You need a wakatime account: https://wakatime.com
+- Download wakatime plugin to your code editor: https://wakatime.com/plugins
+## Configuration
+- In the `_config.yml` file add your GitHub user name and your wakatime user name
+- In the `neofetch.md` file you can customize your portfolio
+## Preview
 ```console
 Cyb3rCl0n3@github.com: ~$ neofetch
 
