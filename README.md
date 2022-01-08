@@ -1,5 +1,5 @@
 # GitHub Profile Readme 
-![banner](https://raw.githubusercontent.com/Cyb3rCl0n3/Cyb3rCl0n3/main/Screenshot%20from%202022-01-08%2019-39-48.png)
+![banner](https://raw.githubusercontent.com/Cyb3rCl0n3/Cyb3rCl0n3/main/photos/Screenshot%20from%202022-01-08%2019-39-48.png)
 ## Description
 - That's a simple and minimalist README.md for your profile
 ## Usage
