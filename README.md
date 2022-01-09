@@ -2,6 +2,7 @@
 ![banner](https://raw.githubusercontent.com/Cyb3rCl0n3/Cyb3rCl0n3/main/photos/Screenshot%20from%202022-01-08%2019-39-48.png)
 ## Description
 - That's a simple and minimalist README.md for your profile
+- Automatically updates your stats every day
 ## Usage
 - You can download or copy to your repository and make sure that your repository name is the same as your GitHub username
 - You need a wakatime account: https://wakatime.com
@@ -9,6 +10,7 @@
 ## Configuration
 - In the `_config.yml` file add your GitHub username and your wakatime username
 - In the `neofetch.md` file you can customize your portfolio
+- After committing the changes in less than a minute it will appear on your profile
 ## Preview
 ```console
 Cyb3rCl0n3@github.com: ~$ neofetch
